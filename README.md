@@ -1,8 +1,8 @@
 ## Salut 👋
 
-Je suis un developpeur fan de natif.
+Je suis un Lorenzo, developpeur fan de natif, passionné d'Histoire, de fantasy et de jeu de strategie.
 
-Passionné d'Histoire, de fantasy et de jeu de strategie, j'ai deja developpé en
+J'ai deja developpé en :
 
 - HTML5/CSS3
 - JavaScript
