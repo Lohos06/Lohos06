@@ -13,6 +13,9 @@ J'ai deja developpé en :
 - Symfony
 - Vue
 - Nuxt
+- React
+- Next
+- TypeScript
 - SCSS
 
 <!--
